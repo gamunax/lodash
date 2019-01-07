@@ -20,6 +20,7 @@ const CLONE_SYMBOLS_FLAG = 4
  * @returns {*} Returns the cloned value.
  * @see cloneDeep
  * @example
+ * @prueba
  *
  * const objects = [{ 'a': 1 }, { 'b': 2 }]
  *
